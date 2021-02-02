@@ -1,4 +1,4 @@
-# ![BotBitz_v](/home/stevem/git/MiniESC/UserGuide/BotBitz_v.svg)
+# ![BotBitz_v](images/BotBitz_v.svg)
 
 # MiniAnt ESC
 
